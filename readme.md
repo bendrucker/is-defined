@@ -12,6 +12,8 @@ $ npm install --save is-defined
 
 ## Usage
 
+is-defined generates a code string, not the actual boolean result.
+
 ```js
 var isDefined = require('is-defined')
 
