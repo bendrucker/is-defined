@@ -1,4 +1,4 @@
-# is-defined [![Build Status](https://travis-ci.org/bendrucker/is-defined.svg?branch=master)](https://travis-ci.org/bendrucker/is-defined)
+# is-defined [![Build Status](https://travis-ci.org/bendrucker/is-defined.svg?branch=master)](https://travis-ci.org/bendrucker/is-defined) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/is-defined.svg)](https://greenkeeper.io/)
 
 > Check if an identifier is defined
 
